@@ -1,0 +1,46 @@
+{
+  "Odin": {
+    "name": "Odin",
+    "description": "The supreme deity of Norse mythology and the greatest among the Norse gods was Odin, the Allfather of the Aesir. He was the awe-inspiring ruler of Asgard, and most revered immortal, who was on an unrelenting quest for knowledge with his two ravens, two wolves and the Valkyries. He is the god of war and, being delightfully paradoxical, the god of poetry and magic. He is famous for sacrificing one of his eyes in order to be able to see the cosmos more clearly and his thirst for wisdom saw him hang from the World Tree, Yggdrasil, for nine days and nine nights until he was blessed with the knowledge of the runic alphabet. His unyielding nature granted him the opportunity to unlock numerous mysteries of the universe."
+  },
+  "Frigg": {
+    "name": "Frigg",
+    "description": "Odin’s wife, Frigg, was a paragon of beauty, love, fertility and fate. She was the mighty queen of Asgard, a venerable Norse goddess, who was gifted with the power of divination, and yet, was surrounded by an air of secrecy. She was the only goddess allowed to sit next to her husband. Frigg was a very protective mother, so she took an oath from the elements, beasts, weapons and poisons, that they would not injure her brilliant and loving son, Balder. Her trust was betrayed by Loki, a most deceitful god."
+  },
+  "Balder": {
+    "name": "Balder",
+    "description": "Frigg and Odin are the parents of Balder, who was described as living between heaven and earth. Balder was the epitome of radiance, beauty, kindness and fairness. He was believed to be immortal, but he was killed with mistletoe – the golden bough that contained both his life and his death."
+  },
+  "Loki": {
+    "name": "Loki",
+    "description": "Loki was a mischievous god who could shape-shift and can take up animalistic forms. He conceived a scheme to cause the death of Balder. Upon learning that mistletoe was the only thing that could hurt Balder, he placed a branch into the hands of the blind god, Hod, and tricked him into throwing it at Balder, killing him."
+  },
+  "Thor": {
+    "name": "Thor",
+    "description": "Thor was Odin’s most widely-known son. He was the protector of humanity and the powerful god of thunder who wielded a hammer named Mjöllnir. Among the Norse gods, he was known for his bravery, strength, healing powers and righteousness."
+  },
+  "Freya": {
+    "name": "Freya",
+    "description": "Freya was one of the most sensual and passionate goddesses in Norse mythology. She was associated with much of the same qualities as Frigg: love, fertility and beauty. She was the sister of Freyr."
+  },
+  "Freyr": {
+    "name": "Freyr",
+    "description": "Freyr was the god of fertility and one of the most respected gods for the Vanir clan. Freyr was a symbol of prosperity and pleasant weather conditions. He was frequently portrayed with a large phallus."
+  },
+  "Heimdall": {
+    "name": "Heimdall",
+    "description": "Heimdall, known as the ‘shiniest’ of all gods due to him having the ‘whitest skin’, was a son of Odin who sat atop the Bifrost (the rainbow bridge that connects Asgard, the world of the Aesir tribe of gods, with Midgard, the world of humanity) and remained forever on alert; guarding Asgard against attack."
+  },
+  "Hel": {
+    "name": "Hel",
+    "description": "Hel was the goddess and ruler of the Norse underworld of the same name (also known as Helheim). She has pale skin and appears to be death-like. She nurtures and houses any who enter her realm."
+  },
+  "Vidar": {
+    "name": "Vidar",
+    "description": "Vidar was another son of the supreme god and Grid (a giantess), and his powers were matched only by that of Thor."
+  },
+  "Vale": {
+    "name": "Vale",
+    "description": "Vale was the son of Odin who avenged Balder’s death by killing Hod, the god who pierced Balder with mistletoe."
+  }
+}
